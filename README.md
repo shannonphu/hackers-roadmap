@@ -36,9 +36,11 @@
 		* [Interacting with Forms](https://www.codecademy.com/courses/html-javascript-css/0/1)
 		* [Altering the DOM](http://eloquentjavascript.net/14_dom.html)
 6. Add animation, interaction, or a form to your website using Javascript!
+7. Congratz! You know enough to build static frontend websites! Keep practicing by making websites till you feel more comfortable.
 
 ### Backend Web Development
-1. What is a "backend"?
+<!-- 1. What is a "backend"? -->
+TBD
 
 ## Data Science
 1. [Learn Python](https://www.codecademy.com/learn/learn-python)
