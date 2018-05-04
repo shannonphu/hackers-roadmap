@@ -22,11 +22,11 @@
 	* [What does responsive mean?](https://www.w3schools.com/css/css_rwd_intro.asp)
 	* [Examples of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
 	* [What is Bootstrap?](https://stackoverflow.com/a/24783264)
-	* [Bootstrap Grids](https://youtu.be/VaW4na2qkwQ)
-	* [Bootstrap Nav Bar](https://youtu.be/L0uNai3XyKQ)
-	* [Other Bootstrap Componenets](https://getbootstrap.com/docs/4.1/components/buttons)
-		* Note: Bootstrap's documentation has example code snippets which show you how to use different components which you can just copy and paste into your code.
-4. Upgrade your personal website to be responsive!
+	* Check out [Bootstrap Components](https://getbootstrap.com/docs/4.1/components/buttons)
+		* Note: Bootstrap's documentation has example code snippets which show you how to use different components/widgets which you can just copy and paste into your code.
+	* [Bootstrap Grids](https://youtu.be/VaW4na2qkwQ) Tutorial
+	* [Bootstrap Nav Bar](https://youtu.be/L0uNai3XyKQ) Tutorial
+4. Upgrade your personal website to be responsive and use a nav-bar component!
 	* Note: you can use different frontend frameworks such as [Foundation](https://foundation.zurb.com/), [Materialize](https://materializecss.com/), [SemanticUI](https://semantic-ui.com/), etc if you prefer.
 5. Javascript
 	* [Why JS?](https://www.thoughtco.com/what-is-javascript-used-for-2037679)
