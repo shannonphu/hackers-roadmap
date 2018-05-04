@@ -1,6 +1,8 @@
 # Guide to be Pro
 
 ## Full-stack Web Development
+### Frontend Web Development
+0. [Introduction to Web Development](https://internetingishard.com/html-and-css/introduction/)
 1. Learn HTML & CSS
 	* Option 1:
 		1. Learn HTML
@@ -25,6 +27,16 @@
 	* [Other Bootstrap Componenets](https://getbootstrap.com/docs/4.1/components/buttons)
 		* Note: Bootstrap's documentation has example code snippets which show you how to use different components which you can just copy and paste into your code.
 4. Upgrade your personal website to be responsive!
+	* Note: you can use different frontend frameworks such as [Foundation](https://foundation.zurb.com/), [Materialize](https://materializecss.com/), [SemanticUI](https://semantic-ui.com/), etc if you prefer.
+5. Javascript
+	* [Why JS?](https://www.thoughtco.com/what-is-javascript-used-for-2037679)
+	* [Codecademy: Learn JS](https://www.codecademy.com/learn/introduction-to-javascript)
+	* Using JS to interact with a website	
+		* [Interacting with Forms](https://www.codecademy.com/courses/html-javascript-css/0/1)
+		* [Team Treehouse Videos](https://teamtreehouse.com/library/javascript-and-the-dom-2)
+6. Add animation, interaction, or a form to your website using Javascript!
+
+### Backend Web Development
 
 ## Data Science
 1. [Learn Python](https://www.codecademy.com/learn/learn-python)
