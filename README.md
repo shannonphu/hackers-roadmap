@@ -1,5 +1,31 @@
 # Guide to be Pro
 
+## Full-stack Web Development
+1. Learn HTML & CSS
+	* Option 1:
+		1. Learn HTML
+			* [Introduction](https://internetingishard.com/html-and-css/basic-web-pages/)
+			* [Links and Images](https://internetingishard.com/html-and-css/links-and-images/)
+		2. Learn CSS
+			* [Introduction](https://internetingishard.com/html-and-css/hello-css/)
+			* [How to link CSS to your HTML](https://www.w3schools.com/css/css_howto.asp)
+			* [Box Model](https://internetingishard.com/html-and-css/css-box-model/)
+			* [Selectors](https://internetingishard.com/html-and-css/css-selectors/)
+			* [Float](https://internetingishard.com/html-and-css/floats/)
+			* [Positioning](https://internetingishard.com/html-and-css/advanced-positioning/)
+	* Option 2: [Codecademy](https://www.codecademy.com/en/tracks/web)
+2. Project: Build your personal website using just HTML/CSS! Don't worry about how it looks on mobile yet.
+	* Use [Chrome Developer Tools](https://developer.chrome.com/devtools) to debug and edit your website in-browser
+3. Responsive Web Design
+	* [What does responsive mean?](https://www.w3schools.com/css/css_rwd_intro.asp)
+	* [Examples of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
+	* [What is Bootstrap?](https://stackoverflow.com/a/24783264)
+	* [Bootstrap Grids](https://youtu.be/VaW4na2qkwQ)
+	* [Bootstrap Nav Bar](https://youtu.be/L0uNai3XyKQ)
+	* [Other Bootstrap Componenets](https://getbootstrap.com/docs/4.1/components/buttons)
+		* Note: Bootstrap's documentation has example code snippets which show you how to use different components which you can just copy and paste into your code.
+4. Upgrade your personal website to be responsive!
+
 ## Data Science
 1. [Learn Python](https://www.codecademy.com/learn/learn-python)
 2. Setup [`virtualenv`](https://virtualenv.pypa.io/en/stable) to create and work in a Python virtual environment
