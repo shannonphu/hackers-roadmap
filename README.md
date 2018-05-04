@@ -18,6 +18,7 @@
 	* Option 2: [Codecademy](https://www.codecademy.com/en/tracks/web)
 2. Project: Build your personal website using just HTML/CSS! Don't worry about how it looks on mobile yet.
 	* Use [Chrome Developer Tools](https://developer.chrome.com/devtools) to debug and edit your website in-browser
+	* Don't worry if you don't know how to start! Revisit the tutorials and Google your questions! Starting is always the hardest part.
 3. Responsive Web Design
 	* [What does responsive mean?](https://www.w3schools.com/css/css_rwd_intro.asp)
 	* [Examples of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
@@ -26,7 +27,7 @@
 		* Note: Bootstrap's documentation has example code snippets which show you how to use different components/widgets which you can just copy and paste into your code.
 	* [Bootstrap Grids](https://youtu.be/VaW4na2qkwQ) Tutorial
 	* [Bootstrap Nav Bar](https://youtu.be/L0uNai3XyKQ) Tutorial
-4. Upgrade your personal website to be responsive and use a nav-bar component!
+4. Project: Upgrade your personal website to be responsive and use a nav-bar component!
 	* Note: you can use different frontend frameworks such as [Foundation](https://foundation.zurb.com/), [Materialize](https://materializecss.com/), [SemanticUI](https://semantic-ui.com/), etc if you prefer.
 5. Javascript
 	* [Why JS?](https://www.thoughtco.com/what-is-javascript-used-for-2037679)
@@ -35,7 +36,7 @@
 	* Using JS to interact with a website	
 		* [Interacting with Forms](https://www.codecademy.com/courses/html-javascript-css/0/1)
 		* [Altering the DOM](http://eloquentjavascript.net/14_dom.html)
-6. Add animation, interaction, or a form to your website using Javascript!
+6. Project: Add animation, interaction, or a form to your website using Javascript!
 7. Congratz! You know enough to build static frontend websites! Keep practicing by making websites till you feel more comfortable.
 
 ### Backend Web Development
