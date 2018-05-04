@@ -31,12 +31,14 @@
 5. Javascript
 	* [Why JS?](https://www.thoughtco.com/what-is-javascript-used-for-2037679)
 	* [Codecademy: Learn JS](https://www.codecademy.com/learn/introduction-to-javascript)
+	* [Intro to the DOM](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
 	* Using JS to interact with a website	
 		* [Interacting with Forms](https://www.codecademy.com/courses/html-javascript-css/0/1)
-		* [Team Treehouse Videos](https://teamtreehouse.com/library/javascript-and-the-dom-2)
+		* [Altering the DOM](http://eloquentjavascript.net/14_dom.html)
 6. Add animation, interaction, or a form to your website using Javascript!
 
 ### Backend Web Development
+1. What is a "backend"?
 
 ## Data Science
 1. [Learn Python](https://www.codecademy.com/learn/learn-python)
