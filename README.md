@@ -112,5 +112,5 @@ TBD
     * [Fannie Mae Loan Foreclosure](https://www.dataquest.io/blog/data-science-portfolio-machine-learning/)
 	* Video Series: [Predicting the stock market](https://pythonprogramming.net/data-acquisition-machine-learning/)
 9. Do your own project!
-	* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+	* Choose a dataset from [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets), clean the data, try to extract meaning/trends, and make predictions and classifications similar to the guided projects above.
 10. Congratz, you've learned and done enough to gain enough knowledge to onboard to more complex data science and machine learning projects in the future!
