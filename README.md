@@ -59,6 +59,29 @@
 	* Tutorial: [Isotope Tile Library](http://www.designlunatic.com/2011/08/isotope-tutorial/)
 	* [Referencing External JS Libraries: CDNs](https://www.sitepoint.com/7-reasons-to-use-a-cdn/)
 
+### Advanced Frontend Web Development
+0. Installation
+	1. Install [`npm` and `node.js`](https://www.npmjs.com/get-npm)
+1. Package/Dependency Managers
+	* [What is `npm`?](https://docs.nodejitsu.com/articles/getting-started/npm/what-is-npm/)
+	* [Basic `npm` commands](http://dreamerslab.com/blog/en/npm-basic-commands/)
+2. React.js
+	* [Introduction](https://www.codementor.io/johnkingzy/beginners-guide-into-reactjs-quick-dive-a6qa5medg)
+	* [Hello, world Example](https://reactjs.org/docs/hello-world.html)
+	* [Build a tic-tac-toe game](https://reactjs.org/tutorial/tutorial.html)
+3. [`react-router`](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
+4. Project: Build a restaurant menu using React.js while trying to separate the view from the underlying data.
+5. Redux
+	* Introduction
+		* [Part 1](https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/)
+		* [Part 2](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
+	* [Intro Code Example](https://dev.to/aurelkurtula/a-beginners-introduction-to-working-with-redux-in-react-13k)
+	* Video Series: egghead.io
+		* [Videos](https://egghead.io/courses/getting-started-with-redux)
+		* [Additional Commentary](https://github.com/tayiorbeii/egghead.io_redux_course_notes)
+	* Code Example: [Todo List](https://redux.js.org/basics/example-todo-list)
+6. Project: Build a new react app using redux.
+
 ### Backend Web Development
 <!-- 1. What is a "backend"? -->
 TBD
