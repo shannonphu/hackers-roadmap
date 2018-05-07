@@ -113,3 +113,4 @@ TBD
 	* Video Series: [Predicting the stock market](https://pythonprogramming.net/data-acquisition-machine-learning/)
 9. Do your own project!
 	* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+10. Congratz, you've learned and done enough to gain enough knowledge to onboard to more complex data science and machine learning projects in the future!
