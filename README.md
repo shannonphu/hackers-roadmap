@@ -1,6 +1,10 @@
 # Guide to be Pro
 
-## Full-stack Web Development
+## Guides
+* [Full-Stack Web Development](https://github.com/shannonphu/guide-to-be-pro#full-stack-web-development)
+* [Data Science & Machine Learning](https://github.com/shannonphu/guide-to-be-pro#data-science--machine-learning)
+
+## Full-Stack Web Development
 ### Frontend Web Development
 0. [Introduction to Web Development](https://internetingishard.com/html-and-css/introduction/)
 1. Learn HTML & CSS
