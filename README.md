@@ -1,10 +1,10 @@
 # Guide to be Pro
 
 ## Guides
-* [Full-Stack Web Development](https://github.com/shannonphu/guide-to-be-pro#full-stack-web-development)
-	* Basic Frontend Web Development
-	* Intermediate Frontend Web Development
-	* Advanced Frontend Web Development
+* Full-Stack Web Development
+	* [Basic Frontend Web Development](https://github.com/shannonphu/guide-to-be-pro#basic-frontend-web-development)
+	* [Intermediate Frontend Web Development](https://github.com/shannonphu/guide-to-be-pro#intermediate-frontend-web-development)
+	* [Advanced Frontend Web Development](https://github.com/shannonphu/guide-to-be-pro#advanced-frontend-web-development)
 * [Data Science & Machine Learning](https://github.com/shannonphu/guide-to-be-pro#data-science--machine-learning)
 
 ## Full-Stack Web Development
