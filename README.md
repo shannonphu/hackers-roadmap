@@ -2,10 +2,13 @@
 
 ## Guides
 * [Full-Stack Web Development](https://github.com/shannonphu/guide-to-be-pro#full-stack-web-development)
+	* Basic Frontend Web Development
+	* Intermediate Frontend Web Development
+	* Advanced Frontend Web Development
 * [Data Science & Machine Learning](https://github.com/shannonphu/guide-to-be-pro#data-science--machine-learning)
 
 ## Full-Stack Web Development
-### Frontend Web Development
+### Basic Frontend Web Development
 0. [Introduction to Web Development](https://internetingishard.com/html-and-css/introduction/)
 1. Learn HTML & CSS
 	* Option 1:
@@ -42,6 +45,19 @@
 		* [Altering the DOM](http://eloquentjavascript.net/14_dom.html)
 6. Project: Add animation, interaction, or a form to your website using Javascript!
 7. Congratz! You know enough to build static frontend websites! Keep practicing by making websites till you feel more comfortable.
+
+### Intermediate Frontend Web Development
+1. [jQuery Overview](https://medium.com/front-end-hacking/jquery-109c5aebf028)
+	* Note: jQuery is typically not used for large projects, and is seen more in small purely frontend projects. So having some idea of what it looks like is useful.
+2. Templating Engines
+	* [Introduction](https://www.htmlgoodies.com/beyond/javascript/js-ref/intro-to-javascript-template-engines.html)
+	* [Handlebars.js Example](https://tutorialzine.com/2015/01/learn-handlebars-in-10-minutes)
+3. CSS Preprocessor: Sass
+	* [Sass](https://sass-lang.com/guide)
+	* [Code Example](https://www.youtube.com/watch?v=b0d--jixRwg)
+4. Using 3rd Party Javascript Libraries
+	* Tutorial: [Isotope Tile Library](http://www.designlunatic.com/2011/08/isotope-tutorial/)
+	* [Referencing External JS Libraries: CDNs](https://www.sitepoint.com/7-reasons-to-use-a-cdn/)
 
 ### Backend Web Development
 <!-- 1. What is a "backend"? -->
