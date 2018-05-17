@@ -9,6 +9,8 @@
 
 ## Full-Stack Web Development
 ### Basic Frontend Web Development
+#### Topics: HTML, CSS, Responsive Design, Javascript
+
 0. [Introduction to Web Development](https://internetingishard.com/html-and-css/introduction/)
 1. Learn HTML & CSS
 	* Option 1:
@@ -47,6 +49,7 @@
 7. Congratz! You know enough to build static frontend websites! Keep practicing by making websites till you feel more comfortable.
 
 ### Intermediate Frontend Web Development
+This section is not required, but encouraged if time permits. If you do read anything here, read up on #2: Templating Engines and #4: Using CDNs.
 1. [jQuery Overview](https://medium.com/front-end-hacking/jquery-109c5aebf028)
 	* Note: jQuery is typically not used for large projects, and is seen more in small purely frontend projects. So having some idea of what it looks like is useful.
 2. Templating Engines
@@ -60,6 +63,8 @@
 	* [Referencing External JS Libraries: CDNs](https://www.sitepoint.com/7-reasons-to-use-a-cdn/)
 
 ### Advanced Frontend Web Development
+#### Topics: NPM, React.js, and Redux
+
 0. Installation
 	1. Install [`npm` and `node.js`](https://www.npmjs.com/get-npm)
 1. Package/Dependency Managers
