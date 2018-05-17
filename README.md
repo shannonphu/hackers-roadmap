@@ -96,7 +96,7 @@
 6. [Server-side Web Frameworks](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks)
 7. Framework Specific Tutorials
 	* Try choosing 1 particular framework (ie Node.js, Django, Ruby on Rails (RoR), etc.) and stick with it till you are comfortable with implementing the concepts you read about above. Then feel free to experiment with other frameworks to gain exposure in how they also implement the same thing.
-	* Note: UCLA students tend to have more experience with Node.js due to UCLA ACM, so it's recommended you learn Node.js first if you are a UCLA student
+	* Note: UCLA students tend to have more experience with Node.js due to UCLA ACM mentors/workshops/events, so it's recommended you learn Node.js first if you are a UCLA student
 
 ## Data Science & Machine Learning
 1. [Learn Python](https://www.codecademy.com/learn/learn-python)
