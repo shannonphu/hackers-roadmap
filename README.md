@@ -83,8 +83,20 @@
 6. Project: Build a new react app using redux.
 
 ### Backend Web Development
-<!-- 1. What is a "backend"? -->
-TBD
+1. [What is frontend & backend development](https://www.upwork.com/hiring/for-clients/frontend-vs-backend-web-development/)
+2. [Client-server Architecture Introduction & Analogy](http://someshinyobject.com/posts/analogy-time-client-side-vs-server-side/)
+3. [What is an API?](https://blog.codeanalogies.com/2018/02/27/web-apis-explained-by-selling-goods-from-your-farm/)
+	* [Another Analogy](https://medium.com/@tyteen4a03/how-apis-work-an-analogy-for-dummies-ac6ee1d1671b)
+4. [What is HTTP?](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+	* [`POST` vs. `PUT`](https://stackoverflow.com/questions/630453/put-vs-post-in-rest?noredirect=1&lq=1)
+5. [What is REST?](https://stackoverflow.com/questions/671118/what-exactly-is-restful-programming?rq=1)
+	* [What is the difference between HTTP & REST?](https://stackoverflow.com/questions/2190836/what-is-the-difference-between-http-and-rest)
+	* [Designing a RESTful API: Best Practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
+	* [Designing a RESTful API: Another Example](https://making.lyst.com/2015/02/20/1-to-1-relationships-and-subresources-in-rest-apis/)
+6. [Server-side Web Frameworks](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks)
+7. Framework Specific Tutorials
+	* Try choosing 1 particular framework (ie Node.js, Django, Ruby on Rails (RoR), etc.) and stick with it till you are comfortable with implementing the concepts you read about above. Then feel free to experiment with other frameworks to gain exposure in how they also implement the same thing.
+	* Note: UCLA students tend to have more experience with Node.js due to UCLA ACM, so it's recommended you learn Node.js first if you are a UCLA student
 
 ## Data Science & Machine Learning
 1. [Learn Python](https://www.codecademy.com/learn/learn-python)
