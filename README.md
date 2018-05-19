@@ -108,6 +108,13 @@ This section is not required, but encouraged if time permits. If you do read any
 	* Try choosing 1 particular framework (ie Node.js, Django, Ruby on Rails (RoR), etc.) and stick with it till you are comfortable with implementing the concepts you read about above. Then feel free to experiment with other frameworks to gain exposure in how they also implement the same thing.
 	* Note: UCLA students tend to have more experience with Node.js due to UCLA ACM mentors/workshops/events, so it's recommended you learn Node.js first if you are a UCLA student for the larger support community.
 
+| Node.js | Django | RoR |
+|---------|--------|-----|
+|[Installation](https://nodejs.org/en/)         |[Installation](https://docs.djangoproject.com/en/2.0/intro/install/)        |[Installation](http://installrails.com/)
+|[Video Tutorials](https://www.youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR)         |[Official Tutorials: Part 1 - 7](https://docs.djangoproject.com/en/2.0/intro/tutorial01/)        |[Michael Hartl's RoR Book](https://www.railstutorial.org/book)     |
+|[Build a Web API](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)         |[Build a Web API](https://codeburst.io/building-an-api-with-django-rest-framework-and-class-based-views-75b369b30396)        |[Build a Web API](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one)     
+|[Build an online shopping cart](https://www.youtube.com/playlist?list=PL55RiY5tL51rajp7Xr_zk-fCFtzdlGKUp)         |[Build a blog Tutorial](https://tutorial.djangogirls.org/en/)        |     |
+
 ## Data Science & Machine Learning
 1. [Learn Python](https://www.codecademy.com/learn/learn-python)
 2. Setup [`virtualenv`](https://virtualenv.pypa.io/en/stable) to create and work in a Python virtual environment
