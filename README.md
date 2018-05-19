@@ -12,21 +12,20 @@
 ## Full-Stack Web Development
 ### Basic Frontend Web Development
 #### Topics: HTML, CSS, Responsive Design, Javascript
-
-0. [Introduction to Web Development](https://internetingishard.com/html-and-css/introduction/)
 1. Learn HTML & CSS
-	* Option 1:
-		1. Learn HTML
-			* [Introduction](https://internetingishard.com/html-and-css/basic-web-pages/)
-			* [Links and Images](https://internetingishard.com/html-and-css/links-and-images/)
-		2. Learn CSS
-			* [Introduction](https://internetingishard.com/html-and-css/hello-css/)
+	* **Option 1**: [Codecademy](https://www.codecademy.com/en/tracks/web)
+	* **Option 2**: Interneting is Hard
+		1. [Chapter 1: Introduction to Web Development](https://internetingishard.com/html-and-css/introduction/)
+		2. Learn HTML
+			* [Chapter 2: Introduction](https://internetingishard.com/html-and-css/basic-web-pages/)
+			* [Chapter 3: Links and Images](https://internetingishard.com/html-and-css/links-and-images/)
+		3. Learn CSS
+			* [Chapter 4: Introduction](https://internetingishard.com/html-and-css/hello-css/)
 			* [How to link CSS to your HTML](https://www.w3schools.com/css/css_howto.asp)
-			* [Box Model](https://internetingishard.com/html-and-css/css-box-model/)
-			* [Selectors](https://internetingishard.com/html-and-css/css-selectors/)
-			* [Float](https://internetingishard.com/html-and-css/floats/)
-			* [Positioning](https://internetingishard.com/html-and-css/advanced-positioning/)
-	* Option 2: [Codecademy](https://www.codecademy.com/en/tracks/web)
+			* [Chapter 5: Box Model](https://internetingishard.com/html-and-css/css-box-model/)
+			* [Chapter 6: Selectors](https://internetingishard.com/html-and-css/css-selectors/)
+			* [Chapter 7: Float](https://internetingishard.com/html-and-css/floats/)
+			* [Chapter 9: Positioning](https://internetingishard.com/html-and-css/advanced-positioning/)
 2. Project: Build your personal website using just HTML/CSS! Don't worry about how it looks on mobile yet.
 	* Use [Chrome Developer Tools](https://developer.chrome.com/devtools) to debug and edit your website in-browser
 	* Don't worry if you don't know how to start! Revisit the tutorials and Google your questions! Starting is always the hardest part.
