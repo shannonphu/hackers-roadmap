@@ -1,4 +1,4 @@
-# Guide to be Pro
+# Hacker's Roadmap
 
 ## Guides
 * Full-Stack Web Development
@@ -101,6 +101,9 @@ This section is not required, but encouraged if time permits. If you do read any
 	* [Designing a RESTful API: Best Practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 	* [Designing a RESTful API: Another Example](https://making.lyst.com/2015/02/20/1-to-1-relationships-and-subresources-in-rest-apis/)
 6. [Server-side Web Frameworks](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks)
+7. [Databases: what & why](https://medium.com/omarelgabrys-blog/database-introduction-part-1-4844fada1fb0)
+	* [Relational vs. non-relational databases](https://www.pluralsight.com/blog/software-development/relational-non-relational-databases)
+8. Piecing everything together: [Full-Stack  Application Architecture](https://stackify.com/n-tier-architecture/)
 7. Framework Specific Tutorials
 	* Try choosing 1 particular framework (ie Node.js, Django, Ruby on Rails (RoR), etc.) and stick with it till you are comfortable with implementing the concepts you read about above. Then feel free to experiment with other frameworks to gain exposure in how they also implement the same thing.
 	* Note: UCLA students tend to have more experience with Node.js due to UCLA ACM mentors/workshops/events, so it's recommended you learn Node.js first if you are a UCLA student for the larger support community.
