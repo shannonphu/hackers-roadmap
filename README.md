@@ -17,7 +17,7 @@
 	* **Option 2**: Interneting is Hard
 		1. [Chapter 1: Introduction to Web Development](https://internetingishard.com/html-and-css/introduction/)
 		2. Learn HTML
-			* [Chapter 2: Introduction](https://internetingishard.com/html-and-css/basic-web-pages/)
+			* [Chapter 2: Common HTML Tags](https://internetingishard.com/html-and-css/basic-web-pages/)
 			* [Chapter 3: Links and Images](https://internetingishard.com/html-and-css/links-and-images/)
 		3. Learn CSS
 			* [Chapter 4: Introduction](https://internetingishard.com/html-and-css/hello-css/)
