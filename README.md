@@ -104,7 +104,7 @@ This section is not required, but encouraged if time permits. If you do read any
 7. [Databases: what & why](https://medium.com/omarelgabrys-blog/database-introduction-part-1-4844fada1fb0)
 	* [Relational vs. non-relational databases](https://www.pluralsight.com/blog/software-development/relational-non-relational-databases)
 8. Piecing everything together: [Full-Stack  Application Architecture](https://stackify.com/n-tier-architecture/)
-7. Framework Specific Tutorials
+9. Framework Specific Tutorials
 	* Try choosing 1 particular framework (ie Node.js, Django, Ruby on Rails (RoR), etc.) and stick with it till you are comfortable with implementing the concepts you read about above. Then feel free to experiment with other frameworks to gain exposure in how they also implement the same thing.
 	* Note: UCLA students tend to have more experience with Node.js due to UCLA ACM mentors/workshops/events, so it's recommended you learn Node.js first if you are a UCLA student for the larger support community.
 	<!-- Resources on various web frameworks -->
