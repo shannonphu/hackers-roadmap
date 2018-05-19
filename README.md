@@ -1,13 +1,13 @@
 # Hacker's Roadmap
 
-## Guides
+## Table of Contents
 * Full-Stack Web Development
 	* Frontend Topics
-		* [Basic Frontend Web Development](https://github.com/shannonphu/hackers-roadmap#basic-frontend-web-development)
-		* [Intermediate Frontend Web Development](https://github.com/shannonphu/hackers-roadmap#intermediate-frontend-web-development)
-		* [Advanced Frontend Web Development](https://github.com/shannonphu/hackers-roadmap#advanced-frontend-web-development)
-	* [Backend Topics](https://github.com/shannonphu/hackers-roadmap#backend-web-development)
-* [Data Science & Machine Learning](https://github.com/shannonphu/guide-to-be-pro#data-science--machine-learning)
+		* [Basic Frontend Web Development](#basic-frontend-web-development)
+		* [Intermediate Frontend Web Development](#intermediate-frontend-web-development)
+		* [Advanced Frontend Web Development](#advanced-frontend-web-development)
+	* [Backend Topics](#backend-web-development)
+* [Data Science & Machine Learning](#data-science--machine-learning)
 
 ## Full-Stack Web Development
 ### Basic Frontend Web Development
