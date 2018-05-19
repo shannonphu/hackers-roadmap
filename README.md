@@ -13,22 +13,24 @@
 ### Basic Frontend Web Development
 #### Topics: HTML, CSS, Responsive Design, Javascript
 1. Learn HTML & CSS
-	* **Option 1**: [Codecademy](https://www.codecademy.com/en/tracks/web)
+	* **Option 1**: 
+		1. [Codecademy](https://www.codecademy.com/en/tracks/web)
+		2. [Tutorial: Make a website on your own computer](https://www.w3.org/Style/Examples/011/firstcss.en.html)
 	* **Option 2**: Interneting is Hard
 		1. [Chapter 1: Introduction to Web Development](https://internetingishard.com/html-and-css/introduction/)
 		2. Learn HTML
 			* [Chapter 2: Common HTML Tags](https://internetingishard.com/html-and-css/basic-web-pages/)
 			* [Chapter 3: Links and Images](https://internetingishard.com/html-and-css/links-and-images/)
 		3. Learn CSS
-			* [Chapter 4: Introduction](https://internetingishard.com/html-and-css/hello-css/)
+			* [Chapter 4: Intro to CSS](https://internetingishard.com/html-and-css/hello-css/)
 			* [How to link CSS to your HTML](https://www.w3schools.com/css/css_howto.asp)
 			* [Chapter 5: Box Model](https://internetingishard.com/html-and-css/css-box-model/)
 			* [Chapter 6: Selectors](https://internetingishard.com/html-and-css/css-selectors/)
 			* [Chapter 7: Float](https://internetingishard.com/html-and-css/floats/)
 			* [Chapter 9: Positioning](https://internetingishard.com/html-and-css/advanced-positioning/)
-2. Project: Build your personal website using just HTML/CSS! Don't worry about how it looks on mobile yet.
-	* Use [Chrome Developer Tools](https://developer.chrome.com/devtools) to debug and edit your website in-browser
+2. Project: Build your personal website using just HTML/CSS!
 	* Don't worry if you don't know how to start! Revisit the tutorials and Google your questions! Starting is always the hardest part.
+	* **Optional for debugging**: If you use Chrome, use [Chrome Developer Tools](https://www.youtube.com/watch?v=wcFnnxfA70g) by right-clicking and selecting "Inspect" to debug and edit any website in-browser
 3. Responsive Web Design
 	* [What does responsive mean?](https://www.w3schools.com/css/css_rwd_intro.asp)
 	* [Examples of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
