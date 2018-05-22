@@ -124,6 +124,19 @@ This section is not required, but encouraged if time permits. If you do read any
 		* Meetup, Twitter, Reddit, etc. clone
 11. Congratz! This completes your full-stack web development roadmap. Continue working on your own projects till you feel comfortable building your own API and web app.
 
+## iOS App Development
+1. Learn Swift
+	* [Part 1: Variables & Expressions](https://www.raywenderlich.com/143771/swift-tutorial-part-1-expressions-variables-constants)
+	* [Part 2: Types & Operations](https://www.raywenderlich.com/143885/swift-tutorial-part-2-types-operations)
+	* [Part 3: Flow Control](https://www.raywenderlich.com/143970/swift-tutorial-part-3-flow-control)
+	* Part 4: Optionals
+		* [1](https://codeburst.io/a-colorful-guide-to-swift-optionals-357c2b92684b)
+		* [2](https://medium.com/ios-os-x-development/optionals-in-swift-for-newbies-7199a30707d5)
+	* [Part 5: Classes](https://www.raywenderlich.com/160728/object-oriented-programming-swift)
+	* [Part 6: Memory Management](https://www.raywenderlich.com/134411/arc-memory-management-swift)
+2. iOS Core Concepts
+	* 
+
 ## Data Science & Machine Learning
 1. [Learn Python](https://www.codecademy.com/learn/learn-python)
 2. Setup [`virtualenv`](https://virtualenv.pypa.io/en/stable) to create and work in a Python virtual environment
