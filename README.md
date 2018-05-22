@@ -7,6 +7,7 @@
 		* [Intermediate Frontend Web Development](#intermediate-frontend-web-development)
 		* [Advanced Frontend Web Development](#advanced-frontend-web-development)
 	* [Backend Topics](#backend-web-development)
+* [iOS Mobile App Development](#ios-app-development)
 * [Data Science & Machine Learning](#data-science--machine-learning)
 
 ## Full-Stack Web Development
