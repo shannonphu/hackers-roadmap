@@ -168,6 +168,7 @@ This section is not required, but encouraged if time permits. If you do read any
 
 
 ## Data Science & Machine Learning
+**Topics: Python, pandas, numpy, matplotlib, traditional ML models, guided & unguided projects**
 1. [Learn Python](https://www.codecademy.com/learn/learn-python)
 2. Setup [`virtualenv`](https://virtualenv.pypa.io/en/stable) to create and work in a Python virtual environment
 	* [Why use it?](https://www.dabapps.com/blog/introduction-to-pip-and-virtualenv-python/)
@@ -223,7 +224,7 @@ This section is not required, but encouraged if time permits. If you do read any
 	* Neural Networks
 		* [Introduction](https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e)
 		* [TensorFlow Tutorial](http://adventuresinmachinelearning.com/python-tensorflow-tutorial/)
-6. [Andrew Ng's Stanford Coursera Course](https://www.coursera.org/learn/machine-learning) for more theory/math
+6. Optional for more mathematical intuition: [Andrew Ng's Stanford Coursera Course](https://www.coursera.org/learn/machine-learning) 
 7. Guided Data Cleaning Project
     * [Video Game Reviews](https://www.dataquest.io/blog/pandas-python-tutorial/)
     * [Thanksgiving Foods](https://www.dataquest.io/blog/pandas-tutorial-python-2/)
