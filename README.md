@@ -131,12 +131,41 @@ This section is not required, but encouraged if time permits. If you do read any
 	* [Part 2: Types & Operations](https://www.raywenderlich.com/143885/swift-tutorial-part-2-types-operations)
 	* [Part 3: Flow Control](https://www.raywenderlich.com/143970/swift-tutorial-part-3-flow-control)
 	* Part 4: Optionals
-		* [1](https://codeburst.io/a-colorful-guide-to-swift-optionals-357c2b92684b)
-		* [2](https://medium.com/ios-os-x-development/optionals-in-swift-for-newbies-7199a30707d5)
+		* [Part A](https://codeburst.io/a-colorful-guide-to-swift-optionals-357c2b92684b)
+		* [Part B](https://medium.com/ios-os-x-development/optionals-in-swift-for-newbies-7199a30707d5)
 	* [Part 5: Classes](https://www.raywenderlich.com/160728/object-oriented-programming-swift)
-	* [Part 6: Memory Management](https://www.raywenderlich.com/134411/arc-memory-management-swift)
 2. iOS Core Concepts
-	* 
+	* Option 1: [Video Series](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a)
+		* [What is a view controller?](https://developer.apple.com/documentation/uikit/uiviewcontroller?changes=_3)
+		* [View Controller Life Cycle](https://medium.com/@amyjoscelyn/the-life-cycle-of-a-view-c98f296fd84e)
+		* [More on IBOutlets & Common Mistakes](https://youtu.be/dVYTmGZmHEg)
+		* [How to get help with UIKit](https://youtu.be/PIu7b0hc0LM)
+	* Option 2: Apple's Official Tutorial
+		* [Build the Basic UI](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/BuildABasicUI.html#//apple_ref/doc/uid/TP40015214-CH5-SW1)
+		* [Connect the UI to the Code](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/ConnectTheUIToCode.html#//apple_ref/doc/uid/TP40015214-CH22-SW1)
+		* [More on IBOutlets & Common Mistakes](https://youtu.be/dVYTmGZmHEg)
+		* [View Controllers](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/WorkWithViewControllers.html#//apple_ref/doc/uid/TP40015214-CH6-SW1)
+		* [View Controller Life Cycle](https://medium.com/@amyjoscelyn/the-life-cycle-of-a-view-c98f296fd84e)
+		* [Custom Views](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/ImplementingACustomControl.html#//apple_ref/doc/uid/TP40015214-CH19-SW1)
+		* [How to get help with UIKit](https://youtu.be/PIu7b0hc0LM)
+3. Guided Tutorials
+	* Build a Card Matching Game: [Video Series](https://www.youtube.com/playlist?list=PLMRqhzcHGw1YdahNsCLZdSVfNv0stwvdx)
+	* [UITableViewController](https://youtu.be/5lH5fSuDVxg)	
+	* Build a SoundBoard App: [Video Series](https://www.youtube.com/playlist?list=PLMRqhzcHGw1a_lcW4L21LPwmua3lZeuVc)
+	* [Animation Tutorial](https://www.youtube.com/watch?v=5b91dFhZz0g)
+4. [Introducing Other Types of View Controllers](https://developer.apple.com/library/content/documentation/WindowsViews/Conceptual/ViewControllerCatalog/Introduction.html)
+	* in iOS apps you often put different view controllers together to create the full app storyboard (i.e. `UITableViewController`, `UITabBarController`, `UICollectionViewController`)
+5. [CocoaPods](https://stackoverflow.com/a/22261215)
+	* [Installation](https://youtu.be/oNKVVBN2JN0)
+	* [AlamoFire Tutorial](https://youtu.be/Brei27hdnF8)
+	* [Firebase Tutorials](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZRUB86rmNqG15Sr5jV-2NU)
+6. Build your own app!
+7. Other Advanced Topics
+	* Delegates & Protocols
+		* [What is it?](https://blog.bobthedeveloper.io/the-meaning-of-delegate-in-swift-347eaa9674d)
+		* [Example](https://medium.com/@jamesrochabrun/implementing-delegates-in-swift-step-by-step-d3211cbac3ef)
+	* [Memory Management](https://www.raywenderlich.com/134411/arc-memory-management-swift)
+
 
 ## Data Science & Machine Learning
 1. [Learn Python](https://www.codecademy.com/learn/learn-python)
