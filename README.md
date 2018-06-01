@@ -224,9 +224,9 @@ This section is not required, but encouraged if time permits. If you do read any
 			* Additional Topics
 				* Entropy
 				* Information Gain
-		* Neural Networks
-			* [Introduction](https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e)
-			* [TensorFlow Tutorial](http://adventuresinmachinelearning.com/python-tensorflow-tutorial/)
+		* [Neural Networks](https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned)
+			* Do Sections 8-10 under "Learning Machine Learning" 
+			* Credits: Adit Deshpande from ACM AI @ UCLA
 6. Optional for more mathematical intuition: [Andrew Ng's Stanford Coursera Course](https://www.coursera.org/learn/machine-learning) 
 7. Guided Data Cleaning Project
     * [Video Game Reviews](https://www.dataquest.io/blog/pandas-python-tutorial/)
